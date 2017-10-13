@@ -15,7 +15,7 @@ public class Amicable2 {
 					factsum1+=k;	
 				}
 			}			
-			for(j=1;j<=i;j++){
+			for(j=1;j<=range;j++){
 				factsum2=0;
 				for(int k=1;k<=(j+1)/2;k++){
 					if(j%k==0){
