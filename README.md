@@ -1,5 +1,5 @@
 # corejavapractice
-Corejava examples
+Corejava examples ( these  programs kept here for reference, try to check execution of programs by using DRY-RUN tables.
 
 Amicable
 
